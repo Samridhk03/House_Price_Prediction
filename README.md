@@ -1,4 +1,4 @@
-**Linear Regression with Python**
+**House Price Prediction - Linear Regression with Python**
 
 **Business Problem** 
 
